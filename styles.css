@@ -1,0 +1,20 @@
+h1, h2 {
+    font-family: georgia, Verdana, Geneva, Tahoma, sans-serif;
+    color: #e16ba0;
+    font-size: 50px;
+}
+
+#page {
+    background-color: rgba(255, 161, 189, 0.432);
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
